@@ -1,4 +1,4 @@
 # VoltageRegulator
- 3-30V to 5V and 3.3V
-![Image description](https://imgur.com/lyjqNLc)
-![Image description](https://imgur.com/cnKS9Ia)
+
+![discrption](https://github.com/dh1p-dev/VoltageRegulator/blob/master/5Vor3.3Vpcb.PNG?raw=true)
+![discrption](https://raw.githubusercontent.com/dh1p-dev/VoltageRegulator/master/5Vor3.3V.PNG)
