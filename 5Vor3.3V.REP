@@ -1,0 +1,230 @@
+*************************************************************
+FileName = 5Vor3.3V.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Pad Master
+      File : 5Vor3.3V.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : 5Vor3.3V.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : 5Vor3.3V.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 5Vor3.3V.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : 5Vor3.3V.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : 5Vor3.3V.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D40
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : 5Vor3.3V.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : 5Vor3.3V.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : 5Vor3.3V.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : 5Vor3.3V.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : 5Vor3.3V.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+

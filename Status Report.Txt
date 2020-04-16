@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[5Vor3.3V.GTO]
+   Generated File[5Vor3.3V.GTP]
+   Generated File[5Vor3.3V.GTS]
+   Generated File[5Vor3.3V.GTL]
+   Generated File[5Vor3.3V.GBL]
+   Generated File[5Vor3.3V.GBS]
+   Generated File[5Vor3.3V.GM1]
+   Generated File[5Vor3.3V.GM13]
+   Generated File[5Vor3.3V.GM15]
+   Generated File[5Vor3.3V.GPT]
+   Generated File[5Vor3.3V.GPB]
+   Generated File[5Vor3.3V.RUL]
+   Generated File[5Vor3.3V.EXTREP]
+   Generated File[5Vor3.3V.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 12:29:22 On 16.04.2020
